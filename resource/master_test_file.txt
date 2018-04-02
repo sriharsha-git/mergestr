@@ -1,1 +1,1 @@
-master test file
+Branch B test file
